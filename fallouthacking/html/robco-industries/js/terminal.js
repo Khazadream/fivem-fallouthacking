@@ -13,7 +13,7 @@ var Count = 12;
 var Difficulty = 6;
 var DudLength = 8;
 var Sound = true;
-var InfoText = "ROBCO INDUSTRIES (TM) TERMALINK PROTOCOL<br />ENTER PASSWORD NOW";
+var InfoText = "TACOMA INDUSTRIES (TM) TERMALINK PROTOCOL<br />ENTER PASSWORD NOW";
 var Haikus = [
 	"Out of memory.<br />We wish to hold the whole sky,<br />But we never will.",
 	"Three things are certain:<br />Death, taxes, and lost data.<br />Guess which has occurred.",
